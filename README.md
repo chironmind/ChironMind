@@ -1,16 +1,22 @@
-## Hi there 👋
+![banner](./assets/banner.png)
 
-<!--
-**chironmind/ChironMind** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# ChironMind
 
-Here are some ideas to get you started:
+## 🔭 I’m currently working on:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[PyTechnicalIndicators](https://github.com/chironmind/PyTechnicalIndicators), converting the repo into Python bindings
+for [RustTI](https://github.com/chironmind/RustTI)
+
+---
+
+## 🚀 Featured Projects:
+
+- [RustTI](https://github.com/chironmind/RustTI)
+
+---
+
+## 📫 How to reach me:
+
+@ChironMind on Discord, Reddit, and Dev.to
+
+---
