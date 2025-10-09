@@ -4,7 +4,7 @@
 
 ## 🔭 I’m currently working on:
 
-[TI-Engine](https://github.com/chironmind/ti-engine), WASM bindings for [RustTI](https://github.com/chironmind/RustTI)
+???
 
 ---
 
@@ -19,6 +19,11 @@
     - [Tutorials](https://github.com/chironmind/PyTechnicalIndicators_tutorials)
     - [How-To Guides](https://github.com/chironmind/PyTechnicalIndicators-How-To-guides)
     - [Benchmarks](https://github.com/chironmind/PyTechnicalIndicators-benchmarks)
+ 
+- [TI-Engine](https://github.com/chironmind/ti-engine), WASM bindings for RustTI
+    - [Tutorials](https://chironmind.github.io/ti-engine/tutorials/)
+    - [How-To Guides](https://chironmind.github.io/ti-engine/howto/))
+
 ---
 
 ## 📫 How to reach me:
