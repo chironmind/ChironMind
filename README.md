@@ -4,25 +4,25 @@
 
 ## 🔭 I’m currently working on:
 
-???
+Unifying all TI projects under the Centaur Capital umbrella.
 
 ---
 
 ## 🚀 Featured Projects:
 
-- [RustTI](https://github.com/chironmind/RustTI): A fully configurable technical indicators library with over 70 unique indicators written in pure Rust
-    - [Tutorials](https://github.com/chironmind/RustTI-tutorials)
-    - [How-To Guides](https://github.com/chironmind/RustTI-how-to-guides)
-    - [Benchmarks](https://github.com/chironmind/RustTI-benchmarks)
+- [CentaurTechnicalIndicators-Rust](https://github.com/chironmind/CentaurTechnicalIndicators-Rust): A fully configurable technical indicators library with over 70 unique indicators written in pure Rust
+    - [Tutorials](https://github.com/chironmind/CentaurTechnicalIndicators-Rust-Tutorials)
+    - [How-To Guides](https://github.com/chironmind/CentaurTechnicalIndicators-Rust-How-to-Guides)
+    - [Benchmarks](https://github.com/chironmind/CentaurTechnicalIndicators-Rust-Benchmarks)
 
-- [PyTechnicalIndicators](https://github.com/chironmind/PyTechnicalIndicators): A Python binding library for RustTI
-    - [Tutorials](https://github.com/chironmind/PyTechnicalIndicators_tutorials)
-    - [How-To Guides](https://github.com/chironmind/PyTechnicalIndicators-How-To-guides)
-    - [Benchmarks](https://github.com/chironmind/PyTechnicalIndicators-benchmarks)
- 
-- [TI-Engine](https://github.com/chironmind/ti-engine), WASM bindings for RustTI
-    - [Tutorials](https://chironmind.github.io/ti-engine/tutorials/)
-    - [How-To Guides](https://chironmind.github.io/ti-engine/howto/))
+- [CentaurTechnicalIndicators-Python](https://github.com/chironmind/CentaurTechnicalIndicators-Python): A Python binding library for CentaurTechnicalIndicators-Rust
+    - [Tutorials](https://github.com/chironmind/CentaurTechnicalIndicators-Python_tutorials)
+    - [How-To Guides](https://github.com/chironmind/CentaurTechnicalIndicators-Python-How-To-guides)
+    - [Benchmarks](https://github.com/chironmind/CentaurTechnicalIndicators-Python-benchmarks)
+
+- [CentaurTechnicalIndicators-JS](https://github.com/chironmind/CentaurTechnicalIndicators-JS): WASM bindings for CentaurTechnicalIndicators-Rust
+    - [Tutorials](https://chironmind.github.io/CentaurTechnicalIndicators-JS/tutorials/)
+    - [How-To Guides](https://chironmind.github.io/CentaurTechnicalIndicators-JS/howto/)
 
 ---
 
