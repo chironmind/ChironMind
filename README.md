@@ -4,7 +4,8 @@
 
 ## 🔭 I’m currently working on:
 
-Unifying all TI projects under the Centaur Capital umbrella.
+Unifying all TI projects under the [Centaur Research & Technologies](https://www.centaurresearchtechnologies.com/) Umbrella.
+- [CRT - Technologies](https://tech.centaurresearchtechnologies.com/)
 
 ---
 
