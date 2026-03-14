@@ -4,12 +4,14 @@
 
 ## 🔭 I’m currently working on:
 
-Unifying all TI projects under the [Centaur Research & Technologies](https://www.centaurresearchtechnologies.com/) Umbrella.
-- [CRT - Technologies](https://tech.centaurresearchtechnologies.com/)
+Building out a Technical Indicator library to run on CUDA cores to improve performance
 
 ---
 
 ## 🚀 Featured Projects:
+
+- [Centaur Research & Technologies](https://www.centaurresearchtechnologies.com/) 
+    - [CRT - Technologies](https://tech.centaurresearchtechnologies.com/) - Learn how to use the Centaur Technologies
 
 - [CentaurTechnicalIndicators-Rust](https://github.com/chironmind/CentaurTechnicalIndicators-Rust): A fully configurable technical indicators library with over 70 unique indicators written in pure Rust
     - [API Reference](https://docs.rs/centaur_technical_indicators/latest/centaur_technical_indicators/)
