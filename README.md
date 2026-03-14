@@ -64,7 +64,7 @@ WASM bindings for CentaurTechnicalIndicators-Rust — use technical indicators i
 
 [![X](https://img.shields.io/badge/@ChironMind-000000?style=flat&logo=x&logoColor=white)](https://x.com/ChironMind)
 [![Reddit](https://img.shields.io/badge/u/ChironMind-FF4500?style=flat&logo=reddit&logoColor=white)](https://www.reddit.com/user/ChironMind)
-[![Discord](https://img.shields.io/badge/@ChironMind-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.com)
+![Discord](https://img.shields.io/badge/@ChironMind-5865F2?style=flat&logo=discord&logoColor=white)
 [![Dev.to](https://img.shields.io/badge/@ChironMind-0A0A0A?style=flat&logo=devdotto&logoColor=white)](https://dev.to/ChironMind)
 
 ---
