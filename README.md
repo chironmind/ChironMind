@@ -54,12 +54,6 @@ WASM bindings for CentaurTechnicalIndicators-Rust — use technical indicators i
 
 ---
 
-## 📊 GitHub Stats
-
-![ChironMind's GitHub Stats](https://github-readme-stats.vercel.app/api?username=chironmind&show_icons=true&theme=default&hide_border=true)
-
----
-
 ## 📫 How to Reach Me
 
 [![X](https://img.shields.io/badge/@ChironMind-000000?style=flat&logo=x&logoColor=white)](https://x.com/ChironMind)
