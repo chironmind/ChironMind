@@ -46,7 +46,7 @@ Python bindings for CentaurTechnicalIndicators-Rust — Rust-powered speed with 
 
 ### [CentaurTechnicalIndicators-JS](https://github.com/chironmind/CentaurTechnicalIndicators-JS)
 
-[![npm](https://img.shields.io/npm/v/centaur_technical_indicators)](https://www.npmjs.com/package/centaur_technical_indicators)
+[![npm](https://img.shields.io/npm/v/centaur-technical-indicators)](https://www.npmjs.com/package/centaur-technical-indicators)
 
 WASM bindings for CentaurTechnicalIndicators-Rust — use technical indicators in the browser or Node.js.
 
