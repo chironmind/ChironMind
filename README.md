@@ -1,5 +1,3 @@
-![banner](./assets/banner.png)
-
 # ChironMind
 
 ## 🛠️ Tech Stack
@@ -29,7 +27,6 @@ The home of the Centaur ecosystem — high-performance technical analysis tools 
 ### [CentaurTechnicalIndicators-Rust](https://github.com/chironmind/CentaurTechnicalIndicators-Rust)
 
 [![Crates.io](https://img.shields.io/crates/v/centaur_technical_indicators)](https://crates.io/crates/centaur_technical_indicators)
-[![docs.rs](https://img.shields.io/docsrs/centaur_technical_indicators)](https://docs.rs/centaur_technical_indicators/latest/centaur_technical_indicators/)
 
 A fully configurable technical indicators library with over 70 unique indicators written in pure Rust.
 
@@ -38,7 +35,6 @@ A fully configurable technical indicators library with over 70 unique indicators
 ### [CentaurTechnicalIndicators-Python](https://github.com/chironmind/CentaurTechnicalIndicators-Python)
 
 [![PyPI](https://img.shields.io/pypi/v/centaur_technical_indicators)](https://pypi.org/project/centaur-technical-indicators/)
-[![Python Versions](https://img.shields.io/pypi/pyversions/centaur_technical_indicators)](https://pypi.org/project/centaur-technical-indicators/)
 
 Python bindings for CentaurTechnicalIndicators-Rust — Rust-powered speed with a Pythonic API.
 
