@@ -10,9 +10,9 @@
 
 ---
 
-## 🔭 Currently Working On
+## 🔭 Focus
 
-Building a Technical Indicator library to run on CUDA cores for GPU-accelerated performance.
+Rust, Python, systems programming, AI, open source, and developer tooling. Maintainer of the Centaur Technical Indicators ecosystem.
 
 ---
 
